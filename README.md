@@ -9,10 +9,10 @@ que se lleva a cabo.
 - 1. Variables
 ## Fundamentos de programación estructurada
 - 1. Variables<br />
-  - a. Tipos de datos<br />
-	- i. Tipos de datos primitivos<br />
-    ii. Tipos de datos complejos<br />
-- b. Asignación de valores<br />
+	- a. Tipos de datos<br />
+		- i. Tipos de datos primitivos<br />
+    		ii. Tipos de datos complejos<br />
+	- b. Asignación de valores<br />
 - 2. Estructuras de control<br />
 	- a. Condicionales
     		- i. If
@@ -27,7 +27,7 @@ que se lleva a cabo.
     - a. Recursividad
     - b. Paso de variables por copia
     - c. Paso de variables por referencia
-    - 
+
 ## Fundamentos de programación orientada a objetos:
 1. Clases
 a. Atributos
