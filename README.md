@@ -11,7 +11,7 @@ que se lleva a cabo.
 - 1. Variables<br />
 	- a. Tipos de datos<br />
 		- i. Tipos de datos primitivos<br />
-    		ii. Tipos de datos complejos<br />
+    		- ii. Tipos de datos complejos<br />
 	- b. Asignación de valores<br />
 - 2. Estructuras de control<br />
 	- a. Condicionales
@@ -29,18 +29,18 @@ que se lleva a cabo.
     - c. Paso de variables por referencia
 
 ## Fundamentos de programación orientada a objetos:
-1. Clases
-a. Atributos
-b. Constructores
-c. Métodos
-d. Modificadores de acceso
-e. Encapsulamiento
-f. Instanciación, Objetos, Estado y Mutación de Estado
-2. Herencia
-a. Herencia simple
-b. Herencia múltiple
-c. Abstracción y clases abstractas
-d. Interfaces
-e. Polimorfismo
-3. Clonación
-4. Composición
+- 1. Clases
+	- a. Atributos
+	- b. Constructores
+	- c. Métodos
+	- d. Modificadores de acceso
+	- e. Encapsulamiento
+	- f. Instanciación, Objetos, Estado y Mutación de Estado
+- 2. Herencia
+	- a. Herencia simple
+	- b. Herencia múltiple
+	- c. Abstracción y clases abstractas
+	- d. Interfaces
+	- e. Polimorfismo
+- 3. Clonación
+- 4. Composición
