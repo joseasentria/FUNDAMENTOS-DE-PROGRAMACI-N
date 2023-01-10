@@ -3,12 +3,12 @@
 Fundamentos de programación estructurada:
 1. Variables
 ## Fundamentos de programación estructurada
-1. Variables
-  a. Tipos de datos
-    i. Tipos de datos primitivos
-    ii. Tipos de datos complejos
-b. Asignación de valores
-2. Estructuras de control
+1. Variables<br />
+  a. Tipos de datos<br />
+		i. Tipos de datos primitivos<br />
+    ii. Tipos de datos complejos<br />
+b. Asignación de valores<br />
+2. Estructuras de control<br />
   a. Condicionales
     i. If
     ii. Switch / case
