@@ -7,8 +7,10 @@ Una variable es el nombre dado a una ubicación de memoria. Es la unidad básica
 - **Tipo de dato**: tipo de datos que se pueden almacenar en esta variable.
 - **nombre_variable**: nombre dado a la variable.
 - **valor**: es el valor inicial almacenado en la variable.
-- Finalizar con ";"
-[Tipos de datos](variables.png)
+- Finalizar con ";"\
+
+![Tipos de datos](./variables.png)
+
 Ejemplos:
 
 ``
