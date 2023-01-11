@@ -12,21 +12,21 @@ que se lleva a cabo.
 	- a. Tipos de datos
 		- i. Tipos de datos primitivos
 		- ii. Tipos de datos complejos
-	- b. Asignación de valores<br />
-- 2. Estructuras de control<br />
+	- b. Asignación de valores
+- 2. Estructuras de control
 	- a. Condicionales
-    		- i. If
-    		- ii. Switch / case
-    		- iii. Diferencia y similitudes entre if y switch
+		- i. If
+		- ii. Switch / case
+		- iii. Diferencia y similitudes entre if y switch
 	- b. Ciclos
-    		- i. For
-    		- ii. While
-    		- iii. Do While
-    		- iv. Palabra clave “break”
+		- i. For
+		- ii. While
+		- iii. Do While
+		- iv. Palabra clave “break”
 - 3. Funciones
-    - a. Recursividad
-    - b. Paso de variables por copia
-    - c. Paso de variables por referencia
+	- a. Recursividad
+	- b. Paso de variables por copia
+	- c. Paso de variables por referencia
 
 ## Fundamentos de programación orientada a objetos:
 - 1. Clases
