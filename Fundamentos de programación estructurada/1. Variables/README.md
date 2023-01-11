@@ -10,11 +10,3 @@ Una variable es el nombre dado a una ubicación de memoria. Es la unidad básica
 - Finalizar con ";"\
 
 ![Tipos de datos](./variables.png)
-
-Ejemplos:
-
-```
-    float simpleInterest; //Declarando variable float
-    int time = 10, speed = 20; //Declarando e Inicializando la variable integer
-    char var = 'h'; // Declarando e Inicializando la variable character
-```
