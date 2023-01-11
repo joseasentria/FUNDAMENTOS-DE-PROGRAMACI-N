@@ -36,3 +36,16 @@ Se pueden especificar los siete niveles de accesibilidad siguientes mediante los
 -   `private`: el acceso está limitado al tipo contenedor.
 -   `private protected`: El acceso está limitado a la clase contenedora o a los tipos derivados de la clase contenedora que hay en el ensamblado actual.
 -   `file`: el tipo declarado solo es visible en el archivo de origen actual. Los tipos con ámbito de archivo se usan generalmente para los generadores de origen.
+
+## e. Encapsulamiento
+
+> Es el proceso de almacenar en una misma sección los elementos de una abstracción que constituyen su estructura y su comportamiento; sirve para separar el interfaz contractual de una abstracción y su implantación.
+
+
+#### Existen tres niveles de acceso para el encapsulamiento, los cuales son:
+
+**Público (Public):**  Todos pueden acceder a los datos o métodos de una clase que se definen con este nivel, este es el nivel más bajo, esto es lo que tu quieres que la parte externa vea.
+
+**Protegido (Protected):**  Podemos decir que estás no son de acceso público, solamente son accesibles dentro de su clase y por subclases.
+
+**Privado (Private):**  En este nivel se puede declarar miembros accesibles sólo para la propia clase.
