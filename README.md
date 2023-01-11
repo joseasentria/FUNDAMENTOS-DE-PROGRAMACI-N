@@ -5,8 +5,7 @@ Software y Senior Developers en Unlimitech Cloud conozcan y puedan aplicarlo cua
 presente la oportunidad y según la pertinencia de la solución en el desarrollo de software
 que se lleva a cabo.
 
-## Fundamentos de programación estructurada:
-- 1. Variables
+
 ## Fundamentos de programación estructurada
 - 1. Variables<br />
 	- a. Tipos de datos
