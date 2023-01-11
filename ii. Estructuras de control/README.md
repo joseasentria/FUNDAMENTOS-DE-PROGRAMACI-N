@@ -28,3 +28,14 @@ es necesario las llaves
 	}
 Si la condición es verdadera se ejecutan todas las instrucciones que están entre llaves.
 	
+	if (condicion)
+	{
+		instrucción 1;
+		instrucción 2;
+	}
+	else
+	{
+	instrucción 3;
+	instrucción 4;
+	}
+Si la condición es verdadera se ejecutan las instrucciones 1 y 2, de lo contrario se ejecuta la instrucción 3 y la 4
