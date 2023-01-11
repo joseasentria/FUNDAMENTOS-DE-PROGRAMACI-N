@@ -14,3 +14,6 @@ Si usamos un parámetro pasado por  **valor**, se creará una copia local de la 
 ## c. Paso de variables por referencia
 
 Con una variable pasada como **referencia**, se actuará directamente sobre la variable pasada, por lo que las modificaciones afectarán a la variable original
+
+### Nota:
+En Java no existe el paso por referencia. El paso por valor es obligatorio.
