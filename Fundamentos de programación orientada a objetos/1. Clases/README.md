@@ -16,3 +16,23 @@ Un **constructor**, en programación orientada a objetos, es un conjunto de inst
 ## c. Métodos
 
 Son aquellas funciones que permite efectuar el objeto y que nos rinden algún tipo de servicio durante el transcurso del programa y determinan a su vez como va a responder el objeto cuando recibe un mensaje.
+
+## d. Modificadores de acceso 
+ 
+Los modificadores de acceso son palabras clave que se usan para especificar la accesibilidad declarada de un miembro o un tipo. En esta sección se presentan los cinco modificadores de acceso:
+
+-   `public`
+-   `protected`
+-   `internal`
+-   `private`
+-   `file`
+
+Se pueden especificar los siete niveles de accesibilidad siguientes mediante los modificadores de acceso:
+
+-   `public`: el acceso no está restringido.
+-   `protected`: el acceso está limitado a la clase contenedora o a los tipos derivados de la clase contenedora.
+-   `internal`: el acceso está limitado al ensamblado actual.
+-   `protected internal`: El acceso está limitado al ensamblado actual o a los tipos derivados de la clase contenedora.
+-   `private`: el acceso está limitado al tipo contenedor.
+-   `private protected`: El acceso está limitado a la clase contenedora o a los tipos derivados de la clase contenedora que hay en el ensamblado actual.
+-   `file`: el tipo declarado solo es visible en el archivo de origen actual. Los tipos con ámbito de archivo se usan generalmente para los generadores de origen.
