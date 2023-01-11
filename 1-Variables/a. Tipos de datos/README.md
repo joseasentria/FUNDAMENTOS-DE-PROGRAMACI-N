@@ -1,4 +1,4 @@
-# Datos de tipo primitivo 
+# i. Tipos de datos primitivos
 
 Representan un único dato simple que puede ser de tipo char, byte, short, int, long, float, double, boolean. 
 Por ejemplo: ‘a’, 12345, 750.68, False,... Cada tipo de dato presenta un conjunto de valores o constantes literales.
