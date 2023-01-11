@@ -1,0 +1,9 @@
+# 5. Principio de caja negra
+
+Una caja negra es cuando un sistema es visto principalmente por sus características de entrada y salida. Un  _**algoritmo de caja negra**_  es uno donde el usuario no puede ver el funcionamiento interno del algoritmo. Se trata de un sistema bastante polémico, por el hermetismo que contienen y la falta de transparencia, si bien sus creadores lo defienden como un sistema de seguridad y privacidad para evitar filtraciones de datos y competencia desleal. Otra característica de este tipo de algoritmos es su dinamismo, suelen presentar constantemente cambios con el objetivo de adaptarse al ritmo creciente de la tecnología y ofrecer valor a sus usuarios.
+
+## Ejemplos de Algoritmos de Caja Negra
+
+-   **Google:**  el ejemplo del algoritmo de caja negra más conocido y a la vez el más estudiado es el  **algoritmo** que rige las búsquedas de Google. Se sabe que hay ciertos factores que influyen en el  posicionamiento web, pero nadie fuera de Google conoce con exactitud todos los parámetros que influyen en la clasificación de una página web, ni el porcentaje de ponderación de dichos parámetros. Google es el motor indiscutible que rige las principales actividades en la web, por lo que comprender parte de su funcionamiento supone una ventaja adicional frente a la competencia.
+-   **Instagram:**  sin duda el algoritmo del que más se habla en la actualidad, con permiso de Google, es el de la popular red social de fotografía y que determina las publicaciones que se muestran a sus usuarios, el orden y la frecuencia de las mismas.
+-   **Netflix:**  una tendencia que se ha vuelto muy popular en los últimos años es la de aquellos algoritmos que recogen nuestro comportamiento, lo interpretan y lo transforman en recomendaciones personales, el caso de la plataforma de peliculas y series, en aquellas que nos puedan interesar más en función de los gustos.
