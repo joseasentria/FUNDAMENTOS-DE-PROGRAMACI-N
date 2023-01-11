@@ -86,3 +86,13 @@ De esta forma el objeto se activa y responde al evento según lo programado en s
 
 Son aquellas funciones que permite efectuar el objeto y que nos rinden algún tipo de servicio durante el transcurso del programa.  
 Determinan a su vez como va a responder el objeto cuando recibe un mensaje.
+
+ ### Estado
+
+ Estado Cada objeto debe ser capaz de almacenar el estado. Para este fin, existen atributos, tales como variables de instancias y campos.
+ 
+ ### Mutación Estado
+
+Es la capacidad de un elemento de cambiar su estado. Cambiando el valor de la propiedad de un objeto, o la referencia que tiene una variable, estás haciendo uso de la mutabilidad de estos elementos.
+
+Los objetos, arreglos y otras estructuras no primitivas son mutables. Los objetos son de tipo de referencia, lo que significa que a una variable a la que se le asigna un objeto, en realidad se le está definiendo una referencia a ese objeto. Si a otra variable se le asigna una referencia al mismo objeto y lo modifica, afectará a todas las variables vinculadas:
