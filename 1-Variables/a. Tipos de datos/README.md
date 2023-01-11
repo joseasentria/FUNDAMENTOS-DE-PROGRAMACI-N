@@ -51,7 +51,7 @@ El elemento **String** es un tipo de dato inmutable. Es decir, que una vez cread
 El String no es un tipo de dato primitivo del lenguaje Java. Pero su uso es igual de importante que el de los tipos de datos revisados aquí. Veremos más en detalle el uso del tipo String.
 
 
-# i. Tipos de datos complejos o compuestos
+# ii. Tipos de datos complejos o compuestos
 
 Los lenguajes de programación orientados a objetos poseen una gran cantidad de los tipos que conforman su sistema de tipos de datos sean tipos complejos (objetos que provienen de clases). La librerías estándar de estos  pueden estar conformadas por cientos (quizás miles) de clases que representan en última instancia un tipo de dato particular. Además nosotros como programadores podemos crear nuestros propios tipos de datos a partir de los que conforman el sistema propio, sin embargo al ser tipos nuestros no conforman parte del estándar  y por ende no son parte oficial del sistema de tipos del lenguaje. Una de las principales clases que conforman estos tipos complejos es la clase String, los String no son un tipo primitivo (son objetos), sin embargo está conformado por una serie (una cadena) de chars (los cuales sí son primitivos), al ser una clase como tal, posee una serie de atributos y métodos que podemos usar para manipular nuestra cadena de caracteres. No pretendo mencionar todas las clases o tipos complejos que conforman el sistema de tipos de Java, sin embargo mencionaré de manera general los que son comúnmente usados, veamos:
 
