@@ -35,3 +35,19 @@ Sintaxis de  _do while_ :
 	do {  
 	//sentencias del extracto de código del bucle  
 	} while (condición)
+
+### **_iv. Palabra clave “break”_**
+
+
+Se detiene un bucle utilizando la palabra break. Detener un bucle significa salirse de él y dejarlo todo como está para continuar con el flujo del programa inmediatamente después del bucle.
+
+```
+for (i=0;i<10;i++){ 
+   	document.write (i) 
+   	escribe = prompt("dime si continuo preguntando...", "si") 
+   	if (escribe == "no") 
+      	break 
+}
+```
+
+Este ejemplo escribe los números del 0 al 9 y en cada iteración del bucle pregunta al usuario si desea continuar. Si el usuario dice cualquier cosa continua, excepto cuando dice "no", situación en la cual se sale del bucle y deja la cuenta por donde se había quedado.
