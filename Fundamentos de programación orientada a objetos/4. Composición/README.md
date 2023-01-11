@@ -6,7 +6,7 @@ Es decir, estamos delegando las tareas que nos mandan a hacer a aquella pieza de
 
 Vamos a ver un esquema como en el caso anterior:
 
-[![Esquema de composión](./composicion-esquema.png)
+![Esquema de composión](./composicion-esquema.png)
 
 En este caso decimos que el coche esta compuesto por ruedas, volante, cinturones de seguridad, luna… es decir, el coche tiene elementos o usa elementos para hacer todas las funciones que puede realizar. Delega sus responsabilidades en colaboradores designados para cada responsabilidad.
 
