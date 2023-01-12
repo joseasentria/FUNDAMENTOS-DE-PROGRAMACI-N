@@ -78,7 +78,7 @@ COMO UNICA REFERENCIA LA INFORMACION EN https://www.makeuseof.com/tag/basic-prog
 - 19. Estructuras de datos
 	- a. Colecciones
 	- b. Colas
-i. FIFO
-ii. LIFO
+		i. FIFO
+		ii. LIFO
 	- c. Mapas
 	- d. Objetos
