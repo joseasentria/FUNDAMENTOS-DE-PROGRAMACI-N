@@ -1,4 +1,3 @@
-
 /*Not DRY*/
 function addNumberSequence(number) {
 	number = number + 1;
