@@ -70,15 +70,15 @@ COMO UNICA REFERENCIA LA INFORMACION EN https://www.makeuseof.com/tag/basic-prog
 - 16. Principio Refactor
 - 17. Principio Clean Code At All Costs
 - 18. Principios SOLID
-	a. S - Responsabilidad simple (Single responsibility):
-	b. O - Principio Open/Closed
-	c. L - Principio de Sustitución de Liskov
-	d. I - Principio de segregación de interfaces
-	e. D - Principio de inversión de dependencias
+	- a. S - Responsabilidad simple (Single responsibility):
+	- b. O - Principio Open/Closed
+	- c. L - Principio de Sustitución de Liskov
+	- d. I - Principio de segregación de interfaces
+	- e. D - Principio de inversión de dependencias
 - 19. Estructuras de datos
 	- a. Colecciones
 	- b. Colas <br/>
-		i. FIFO<br/>
-		ii. LIFO<br/>
+		- i. FIFO
+		- ii. LIFO
 	- c. Mapas
 	- d. Objetos
