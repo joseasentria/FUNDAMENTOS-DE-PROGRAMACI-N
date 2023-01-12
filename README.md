@@ -58,10 +58,9 @@ que se lleva a cabo.
 - 6. Principio de generalización
 - 7. Principio de especialización
 - 8. Principio de “divide y conquista” (divide and conquer)
-- 9. Código espagueti
+- 9. Código espagueti <br/>
 EN LOS SIGUIENTES PUNTOS SE PUEDE TOMAR COMO BASE PERO NO
-COMO UNICA REFERENCIA LA INFORMACION EN
-https://www.makeuseof.com/tag/basic-programming-principles/
+COMO UNICA REFERENCIA LA INFORMACION EN https://www.makeuseof.com/tag/basic-programming-principles/<br/>
 - 10. Principio Keep It Simple, Stupid (KISS)
 - 11. Principio Write DRY Code
 - 12. Principio Composition Over Inheritance
@@ -71,11 +70,11 @@ https://www.makeuseof.com/tag/basic-programming-principles/
 - 16. Principio Refactor
 - 17. Principio Clean Code At All Costs
 - 18. Principios SOLID
-a. S - Responsabilidad simple (Single responsibility):
-b. O - Principio Open/Closed
-c. L - Principio de Sustitución de Liskov
-d. I - Principio de segregación de interfaces
-e. D - Principio de inversión de dependencias
+	a. S - Responsabilidad simple (Single responsibility):
+	b. O - Principio Open/Closed
+	c. L - Principio de Sustitución de Liskov
+	d. I - Principio de segregación de interfaces
+	e. D - Principio de inversión de dependencias
 - 19. Estructuras de datos
 	- a. Colecciones
 	- b. Colas
