@@ -77,8 +77,8 @@ COMO UNICA REFERENCIA LA INFORMACION EN https://www.makeuseof.com/tag/basic-prog
 	e. D - Principio de inversión de dependencias
 - 19. Estructuras de datos
 	- a. Colecciones
-	- b. Colas
-		i. FIFO
-		ii. LIFO
+	- b. Colas <br/>
+		i. FIFO<br/>
+		ii. LIFO<br/>
 	- c. Mapas
 	- d. Objetos
